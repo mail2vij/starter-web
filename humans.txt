@@ -14,3 +14,4 @@ doing some changes to local
 
     HTML5, CSS3, Anuglar
     jQuery, Modernizr, AJAX
+    AWS Solution Architect Developer
